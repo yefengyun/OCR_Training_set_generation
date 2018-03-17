@@ -1,0 +1,2 @@
+# OCR_Training_set_generation
+OCR训练集生成小工具
