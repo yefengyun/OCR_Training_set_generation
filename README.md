@@ -8,3 +8,5 @@ OCR训练集生成小工具
 
 有使用百度AI SDK
 pip install baidu-aip
+
+请见谅小白
