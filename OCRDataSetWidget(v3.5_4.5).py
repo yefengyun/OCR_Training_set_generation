@@ -32,7 +32,7 @@ class SetName(object):
         self.filename = filname  # 默认文件名
         self.filelist = fillist  # 默认文件列表
         self.imglist = imaglist  # 默认图像列表
-        self.imgsuffix = imgsuffix  # 默认图像后缀
+        self.imgsuffix = imgsuffix  # 默认图像后缀d
 
     def getPhotoName(self):
         # 以.jpg位格式
